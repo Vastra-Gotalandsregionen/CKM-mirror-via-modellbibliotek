@@ -1,8 +1,9 @@
-﻿archetype (adl_version=1.4; uid=5fe8da4a-28be-46e9-b33d-f8739a71fcee)
+archetype (adl_version=1.4; uid=5fe8da4a-28be-46e9-b33d-f8739a71fcee)
 	openEHR-EHR-OBSERVATION.four_a_test.v1
 
 concept
-	[at0000]	-- 4AT
+	[at0000]
+
 language
 	original_language = <[ISO_639-1::en]>
 	translations = <
@@ -16,35 +17,34 @@ language
 			accreditation = <"Nasjonal IKT">
 		>
 	>
+
 description
 	original_author = <
+		["date"] = <"2019-02-18">
 		["name"] = <"John Tore Valand">
 		["organisation"] = <"Helse Bergen HF">
-		["date"] = <"2019-02-18">
 	>
+	lifecycle_state = <"published">
+	other_contributors = <"Vebjørn Arntzen, Oslo University Hospital, Norway (openEHR Editor)","Silje Ljosland Bakke, Helse Vest IKT AS, Norway (openEHR Editor)","Aleocidio Balzanelo, UHG Brasil, Brazil","SB Bhattacharyya, Bhattacharyyas Clinical Records Research & Informatics LLP, India","Hugo Claudio Briceño García, Catsalut, Spain","Hanne Marte Bårholm, Helse Vest IKT, Norway (openEHR Editor)","Kirvil Flygel, UNN, Helse Nord, Norway","Heather Grain, Llewelyn Grain Informatics, Australia","Mikkel Johan Gaup Grønmo, Regional forvaltning EPJ, Helse Nord, Norway (openEHR Editor)","Nina Hauge, Helse Fonna, Norway","Evelyn Hovenga, EJSH Consulting, Australia","Kanika Kuwelker, Helse Vest IKT, Norway (openEHR Editor)","Liv Laugen, ​Oslo University Hospital, Norway, Norway (openEHR Editor)","Heather Leslie, Atomica Informatics, Australia (openEHR Editor)","Ieva Martinaityte, UNN Tromsø, Norway","Christine Mikalsen, Regional forvaltning EPJ, Norway","Mikael Nyström, Cambio Healthcare Systems AB, Sweden","Vilde Richardsen, Universitetssykehuset Nord-Norge, Norway","Marte Rime Bø, Direktoratet for e-helse, Norway","Terje Sagmyr, Helse Vest IKT, Norway (openEHR Editor)","Norwegian Review Summary, Norwegian Public Hospitals, Norway","John Tore Valand, Helse Bergen, Norway (openEHR Editor)","Marit Alice Venheim, Helse Vest IKT, Norway (openEHR Editor)">
 	details = <
 		["nb"] = <
 			language = <[ISO_639-1::nb]>
 			purpose = <"For å registrere resultatet av hver enkelt parameter som kombinert gir en 4AT skår.">
+			keywords = <"forvirring","akutt forvirring","delir","delirium","kognitiv svikt","vurdering","screening">
 			use = <"Brukes for å registrere resultatet av hver enkelt parameter som kombinert gir en 4AT skår.
 
 Denne arketypen er ment å representere versjon 1.2 av 4AT.">
-			keywords = <"forvirring", "akutt forvirring", "delir", "delirium", "kognitiv svikt", "vurdering", "screening">
-			misuse = <"">
 		>
 		["en"] = <
 			language = <[ISO_639-1::en]>
 			purpose = <"To record the results for each component parameter and their sum for the 4AT test.">
+			keywords = <"delirium","assessment","alertness","cognitive","screening","screening tool","cognitive impairment","confused">
+			copyright = <"© openEHR Foundation, Nasjonal IKT HF">
 			use = <"Use to record the results for each component parameter and their sum for the 4AT test.
 
 This archetype is intended to represent version 1.2 of 4AT test.">
-			keywords = <"delirium", "assessment", "alertness", "cognitive", "screening", "screening tool", "cognitive impairment", "confused">
-			misuse = <"">
-			copyright = <"© openEHR Foundation, Nasjonal IKT HF">
 		>
 	>
-	lifecycle_state = <"published">
-	other_contributors = <"Vebjørn Arntzen, Oslo University Hospital, Norway (openEHR Editor)", "Silje Ljosland Bakke, Helse Vest IKT AS, Norway (openEHR Editor)", "Aleocidio Balzanelo, UHG Brasil, Brazil", "SB Bhattacharyya, Bhattacharyyas Clinical Records Research & Informatics LLP, India", "Hugo Claudio Briceño García, Catsalut, Spain", "Hanne Marte Bårholm, Helse Vest IKT, Norway (openEHR Editor)", "Kirvil Flygel, UNN, Helse Nord, Norway", "Heather Grain, Llewelyn Grain Informatics, Australia", "Mikkel Johan Gaup Grønmo, Regional forvaltning EPJ, Helse Nord, Norway (openEHR Editor)", "Nina Hauge, Helse Fonna, Norway", "Evelyn Hovenga, EJSH Consulting, Australia", "Kanika Kuwelker, Helse Vest IKT, Norway (openEHR Editor)", "Liv Laugen, ​Oslo University Hospital, Norway, Norway (openEHR Editor)", "Heather Leslie, Atomica Informatics, Australia (openEHR Editor)", "Ieva Martinaityte, UNN Tromsø, Norway", "Christine Mikalsen, Regional forvaltning EPJ, Norway", "Mikael Nyström, Cambio Healthcare Systems AB, Sweden", "Vilde Richardsen, Universitetssykehuset Nord-Norge, Norway", "Marte Rime Bø, Direktoratet for e-helse, Norway", "Terje Sagmyr, Helse Vest IKT, Norway (openEHR Editor)", "Norwegian Review Summary, Norwegian Public Hospitals, Norway", "John Tore Valand, Helse Bergen, Norway (openEHR Editor)", "Marit Alice Venheim, Helse Vest IKT, Norway (openEHR Editor)">
 	other_details = <
 		["licence"] = <"This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.">
 		["custodian_organisation"] = <"openEHR Foundation">
@@ -55,7 +55,7 @@ Bellelli G, Morandi A, Davis DH, Mazzola P, Turco R, Gentile S, Ryan T, Cash H, 
 		["original_namespace"] = <"org.openehr">
 		["original_publisher"] = <"openEHR Foundation">
 		["custodian_namespace"] = <"org.openehr">
-		["MD5-CAM-1.0.1"] = <"57504ABDCA34D6AD1E14E25AA88C7634">
+		["MD5-CAM-1.0.1"] = <"dba84706ccd3e16abe5326dbe4f6d0e5">
 		["build_uid"] = <"0da22555-8b72-48cc-a532-d9ad4aef3aac">
 		["revision"] = <"1.0.1">
 	>
@@ -122,15 +122,13 @@ definition
 		}
 	}
 
-
-
 ontology
 	term_definitions = <
 		["en"] = <
 			items = <
 				["at0000"] = <
 					text = <"4AT">
-					description = <"A screening tool used for rapid initial assessment of delirium and cognitive impairment.">
+					description = <"A screening tool used for rapid initial assessment of delirium and cognitive impairment.d">
 				>
 				["at0001"] = <
 					text = <"History">
@@ -223,7 +221,7 @@ ontology
 			items = <
 				["at0000"] = <
 					text = <"4AT">
-					description = <"Et screeningsverktøy for å oppdage delirium og kognitiv svikt.">
+					description = <"*A screening tool used for rapid initial assessment of delirium and cognitive impairment.d (en)">
 				>
 				["at0001"] = <
 					text = <"History">

@@ -81,7 +81,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]">
         <items>
             <item>
                 <key>source</key>
@@ -93,7 +93,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0002]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0002]">
         <items>
             <item>
                 <key>source</key>
@@ -105,7 +105,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0101]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0101]">
         <items>
             <item>
                 <key>source</key>
@@ -113,7 +113,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0006]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0006]">
         <items>
             <item>
                 <key>source</key>
@@ -121,7 +121,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/protocol[at0042]/items[at0062]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/protocol[at0042]/items[at0062]">
         <items>
             <item>
                 <key>source</key>
@@ -129,7 +129,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0063]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0063]">
         <items>
             <item>
                 <key>source</key>
@@ -141,7 +141,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0058]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0058]">
         <items>
             <item>
                 <key>source</key>
@@ -149,7 +149,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0117]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0117]">
         <items>
             <item>
                 <key>source</key>
@@ -157,7 +157,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]">
         <items>
             <item>
                 <key>source</key>
@@ -165,7 +165,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0041]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0041]">
         <items>
             <item>
                 <key>source</key>
@@ -173,7 +173,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0029]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0029]">
         <items>
             <item>
                 <key>source</key>
@@ -181,7 +181,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0010]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0010]">
         <items>
             <item>
                 <key>source</key>
@@ -189,7 +189,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0027]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0027]">
         <items>
             <item>
                 <key>source</key>
@@ -201,7 +201,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0011]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0011]">
         <items>
             <item>
                 <key>source</key>
@@ -213,7 +213,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0020]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0020]">
         <items>
             <item>
                 <key>source</key>
@@ -221,7 +221,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0025]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0025]">
         <items>
             <item>
                 <key>source</key>
@@ -229,7 +229,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0106]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0106]">
         <items>
             <item>
                 <key>source</key>
@@ -237,7 +237,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0018]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0018]">
         <items>
             <item>
                 <key>source</key>
@@ -245,7 +245,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0040]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0040]">
         <items>
             <item>
                 <key>source</key>
@@ -253,7 +253,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0032]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0032]">
         <items>
             <item>
                 <key>source</key>
@@ -261,7 +261,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/protocol[at0042]/items[at0047]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/protocol[at0042]/items[at0047]">
         <items>
             <item>
                 <key>source</key>
@@ -269,7 +269,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/protocol[at0042]/items[at0044]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/protocol[at0042]/items[at0044]">
         <items>
             <item>
                 <key>source</key>
@@ -277,7 +277,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/protocol[at0042]/items[at0099]/items[at0048]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/protocol[at0042]/items[at0099]/items[at0048]">
         <items>
             <item>
                 <key>source</key>
@@ -285,7 +285,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/protocol[at0042]/items[at0099]/items[at0045]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/protocol[at0042]/items[at0099]/items[at0045]">
         <items>
             <item>
                 <key>source</key>
@@ -293,7 +293,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0021]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0021]">
         <items>
             <item>
                 <key>source</key>
@@ -301,7 +301,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0012]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0012]">
         <items>
             <item>
                 <key>source</key>
@@ -309,7 +309,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0028]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0028]">
         <items>
             <item>
                 <key>source</key>
@@ -317,7 +317,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             </item>
         </items>
     </annotations>
-    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v1]/data[at0001]/items[at0009]/items[at0089]">
+    <annotations path="[openEHR-EHR-COMPOSITION.health_summary.v1]/content[openEHR-EHR-SECTION.adhoc.v1, 'Allergies &amp; Intolerances']/items[openEHR-EHR-EVALUATION.adverse_reaction_risk.v2]/data[at0001]/items[at0009]/items[at0089]">
         <items>
             <item>
                 <key>source</key>
@@ -576,7 +576,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
                 <Rule max="0" path="/description[at0017]/items[at0149]"/>
                 <Rule max="0" path="/description[at0017]/items[at0025]"/>
                 <Rule max="0" path="/description[at0017]/items[at0024]"/>
-                <Items archetype_id="openEHR-EHR-CLUSTER.dosage.v1"
+                <Items archetype_id="openEHR-EHR-CLUSTER.dosage.v2"
                     max="1" path="/description[at0017]/items[at0131]" xsi:type="tem:CLUSTER">
                     <Rule max="0" path="/items[at0164]">
                         <constraint xsi:type="tem:countConstraint">
@@ -613,7 +613,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
                 <Items
                     archetype_id="openEHR-EHR-CLUSTER.timing_nondaily.v1"
                     max="1" path="/description[at0017]/items[at0053]" xsi:type="tem:CLUSTER"/>
-                <Items archetype_id="openEHR-EHR-CLUSTER.medication.v1"
+                <Items archetype_id="openEHR-EHR-CLUSTER.medication.v2"
                     max="1" path="/description[at0017]/items[at0104]" xsi:type="tem:CLUSTER"/>
             </Item>
             <Item
@@ -646,7 +646,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
             concept_name="Ad hoc heading" max="1" min="1"
             name="Allergies &amp; Intolerances" path="/content" xsi:type="tem:SECTION">
             <Item
-                archetype_id="openEHR-EHR-EVALUATION.adverse_reaction_risk.v1"
+                archetype_id="openEHR-EHR-EVALUATION.adverse_reaction_risk.v2"
                 concept_name="Adverse reaction risk" max="1"
                 name="Allergy Intolerance" path="/items" xsi:type="tem:EVALUATION">
                 <Rule name="Verification status" path="/data[at0001]/items[at0063]">
@@ -1638,7 +1638,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tem:ArchetypeIntegrity">
         <digest id="MD5-CAM-1.0.1">E0C69F83865D3910946385034A86310F</digest>
     </integrity_checks>
-    <integrity_checks archetype_id="openEHR-EHR-CLUSTER.dosage.v1"
+    <integrity_checks archetype_id="openEHR-EHR-CLUSTER.dosage.v2"
         xmlns:tem="openEHR/v1/Template"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tem:ArchetypeIntegrity">
         <digest id="MD5-CAM-1.0.1">CD1EACAF2A90BEE4DFD15DA9897B7049</digest>
@@ -1654,7 +1654,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tem:ArchetypeIntegrity">
         <digest id="MD5-CAM-1.0.1">47B10A6B5F4FD1E21ED98352AE29F6AD</digest>
     </integrity_checks>
-    <integrity_checks archetype_id="openEHR-EHR-CLUSTER.medication.v1"
+    <integrity_checks archetype_id="openEHR-EHR-CLUSTER.medication.v2"
         xmlns:tem="openEHR/v1/Template"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tem:ArchetypeIntegrity">
         <digest id="MD5-CAM-1.0.1">2F8FAC73C32910334C637CF675BD3713</digest>
@@ -1671,7 +1671,7 @@ The IPS document is composed by a set of robust, well-defined and potentially re
         <digest id="MD5-CAM-1.0.1">7CD5D4B56F1AAC4BF3DFF1AB6120FCD0</digest>
     </integrity_checks>
     <integrity_checks
-        archetype_id="openEHR-EHR-EVALUATION.adverse_reaction_risk.v1"
+        archetype_id="openEHR-EHR-EVALUATION.adverse_reaction_risk.v2"
         xmlns:tem="openEHR/v1/Template"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tem:ArchetypeIntegrity">
         <digest id="MD5-CAM-1.0.1">879E7E42E431DB7AA87C85144FD6B657</digest>

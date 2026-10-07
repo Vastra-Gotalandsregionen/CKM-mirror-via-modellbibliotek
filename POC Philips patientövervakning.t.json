@@ -21,7 +21,7 @@
       "custodian_namespace" : "",
       "sem_ver" : "2.0.0-alpha.2",
       "build_uid" : "",
-      "MD5-CAM-1.0.1" : "279e7f62ab909255770184d9cd6eb981",
+      "MD5-CAM-1.0.1" : "51cb16eeb8a4dc13126fec2a191d1af0",
       "PARENT:MD5-CAM-1.0.1" : "3B0765A6B395C9D01595FDF2D440E6CB"
     },
     "details" : {
@@ -345,7 +345,7 @@
         "at0000.1" : {
           "@type" : "ARCHETYPE_TERM",
           "code" : "at0000.1",
-          "text" : "POC Philips patientövervakning 1.0.0-alpha-1",
+          "text" : "POC Philips patientövervakning",
           "description" : "Kontakt mellan patient och vårdgivare, eller vårdhändelse inom hälso- och sjukvården."
         }
       },
@@ -3945,7 +3945,14 @@
         "sl" : { },
         "nb" : { },
         "pt-br" : { },
-        "sv" : { },
+        "sv" : {
+          "at0000.1" : {
+            "@type" : "ARCHETYPE_TERM",
+            "code" : "at0000.1",
+            "text" : "Mätvärden",
+            "description" : "En allmän avsnittsrubrik som döps om i en openEHR-mall för att passa in i en specifik klinisk kontext."
+          }
+        },
         "de" : { },
         "it" : { },
         "fr" : { },
@@ -4501,7 +4508,7 @@
           "at0000.1" : {
             "@type" : "ARCHETYPE_TERM",
             "code" : "at0000.1",
-            "text" : "Rubrik (2)",
+            "text" : "NEWS-skattning",
             "description" : "En allmän avsnittsrubrik som döps om i en openEHR-mall för att passa in i en specifik klinisk kontext."
           }
         },
@@ -4954,7 +4961,82 @@
       "otherDetails" : {
         "PARENT:MD5-CAM-1.0.1" : "8A256DAD4500E0D52C2B2547210C2362"
       },
-      "details" : { }
+      "details" : {
+        "de" : {
+          "@type" : "RESOURCE_DESCRIPTION_ITEM",
+          "language" : {
+            "terminologyId" : {
+              "value" : "ISO_639-1"
+            },
+            "codeString" : "de"
+          },
+          "purpose" : "Zur Aufzeichnung des Grades des Bewusstseins eines Individuums.",
+          "keywords" : [ "avpu", "Alarm", "Stimme", "Schmerz", "nicht ansprechbar", "wach", "Rede", "Schmerz", "unbewusst", "Stimme", "Bewusstsein", "verbal", "halbkomatös", "bewusst", "Bewusstseinsebene", "komatös", "Verwirrung", "news2" ],
+          "use" : "Zur einfachen Beurteilung des Bewusstseinsniveaus einer Person, besonders geeignet für die Beurteilung in Notfallsituationen.\r\n\r\nDiese Skala ist eine Verfeinerung der ursprünglichen AVPU, die 2017 durch Hinzufügen eines \"C\" aktualisiert wurde, wobei C für \"ein neues Auftreten oder eine sich verschlimmernde Verwirrung, ein Delirium oder eine andere veränderte Mentalität\" steht.\r\n\r\nDiese Skala wird jetzt als Bestandteil von NEWS2 veröffentlicht, um den Grad des Bewusstseins einer Person zu erfassen.",
+          "originalResourceUri" : { },
+          "otherDetails" : { }
+        },
+        "sv" : {
+          "@type" : "RESOURCE_DESCRIPTION_ITEM",
+          "language" : {
+            "terminologyId" : {
+              "value" : "ISO_639-1"
+            },
+            "codeString" : "sv"
+          },
+          "purpose" : "Att registrera en individs medvetandegrad.",
+          "keywords" : [ "*avpu(en)", "*alert(en)", "*voice(en)", "*pain(en)", "*unresponsive(en)", "*awake(en)", "*speech(en)", "*pain(en)", "*unconscious(en)", "*voice(en)", "*consciousness(en)", "*verbal(en)", "*verbal response(en)", "*semicomatose(en)", "*conscious(en)", "*level of consciousness(en)", "*comatose(en)", "*confusion(en)", "*acvpu(en)" ],
+          "use" : "Används för att registrera en snabb och enkel bedömning av en individs medvetandegrad, i synnerhet i akuta situationer. Bedömningen har uppdaterats som en konsekvens av publiceringen av NEWS2 år 2017.",
+          "copyright" : "© Apperta UK, openEHR Foundation, openEHR Foundation",
+          "originalResourceUri" : { },
+          "otherDetails" : { }
+        },
+        "nb" : {
+          "@type" : "RESOURCE_DESCRIPTION_ITEM",
+          "language" : {
+            "terminologyId" : {
+              "value" : "ISO_639-1"
+            },
+            "codeString" : "nb"
+          },
+          "purpose" : "Brukes for å vurdere et individs bevissthetsnivå.",
+          "keywords" : [ "AVPU", "alert", "voice", "pain", "unresponsive", "våken", "tale", "smerte", "bevisstløs", "stemme", "bevissthet", "verbal", "verbalrespons", "semikomatøs", "bevisst", "bevissthetsnivå", "komatøs", "sløv", "barn", "nonverbal", "stimuli", "GCS", "glasgow coma scale", "news2", "uresponsiv", "forvirring", "tiltale", "confusion" ],
+          "use" : "Brukes for å gjøre en rask og enkel vurdering av et individs bevissthetsnivå, særlig egnet til vurdering i akutte situasjoner. \r\n\r\nSkalaen er en er forbedring av den originale AVPU skalaen. Den ble oppdatert i 2017 ved å legge til 'C', der C representerer nytt tilfelle av- eller økt forvirring, delirum eller endring i mental tilstand.\r\n\r\nSkalaen er nå publisert som en del av NEWS 2.",
+          "copyright" : "© Apperta UK, openEHR Foundation, openEHR Foundation",
+          "originalResourceUri" : { },
+          "otherDetails" : { }
+        },
+        "pt-br" : {
+          "@type" : "RESOURCE_DESCRIPTION_ITEM",
+          "language" : {
+            "terminologyId" : {
+              "value" : "ISO_639-1"
+            },
+            "codeString" : "pt-br"
+          },
+          "purpose" : "Registrar a responsividade de um paciente, como uma indicação do seu nível de consciência.",
+          "keywords" : [ "avda", "alerta", "voz", "dor", "arresponsivo" ],
+          "use" : "Usar para registrar, como parte de uma avaliação de rastreamento da responsividade de um paciente, como uma indicação do seu nível de consicência.",
+          "copyright" : "© Apperta UK, openEHR Foundation, openEHR Foundation",
+          "originalResourceUri" : { },
+          "otherDetails" : { }
+        },
+        "en" : {
+          "@type" : "RESOURCE_DESCRIPTION_ITEM",
+          "language" : {
+            "terminologyId" : {
+              "value" : "ISO_639-1"
+            },
+            "codeString" : "en"
+          },
+          "purpose" : "To record an individual's level of consciousness.",
+          "keywords" : [ "avpu", "alert", "voice", "pain", "unresponsive", "awake", "speech", "pain", "unconscious", "consciousness", "verbal", "semicomatose", "conscious", "level of consciousness", "comatose", "confusion", "news2" ],
+          "use" : "Use to make a simple assessment of an individual's level of consciousness, especially suitable for assessment in emergency situations.\r\n\r\nThis scale is a refinement of the original AVPU, updated in 2017 by adding 'C', where C represents 'a new onset or worsening confusion, delirium or any other altered mentation'.\r\n\r\nThis scale is now published as a component of NEWS2.",
+          "copyright" : "© Apperta UK, openEHR Foundation",
+          "originalResourceUri" : { },
+          "otherDetails" : { }
+        }
+      }
     },
     "parentArchetypeId" : "openEHR-EHR-OBSERVATION.acvpu.v1",
     "differential" : true,

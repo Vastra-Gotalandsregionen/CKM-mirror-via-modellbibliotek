@@ -22,10 +22,10 @@
       "original_namespace" : "",
       "original_publisher" : "",
       "custodian_namespace" : "",
-      "MD5-CAM-1.0.1" : "a01286de449f132777b91a312bc20083",
+      "MD5-CAM-1.0.1" : "a30f597f963a7aebc3861af19fa86e6c",
       "PARENT:MD5-CAM-1.0.1" : "B2D87AA57E3D01820E7DAE733A4644F7",
       "original_language" : "ISO_639-1::en",
-      "sem_ver" : "1.0.2",
+      "sem_ver" : "1.0.3",
       "build_uid" : ""
     },
     "details" : {
@@ -10247,31 +10247,13 @@
               "@type" : "C_COMPLEX_OBJECT",
               "rmTypeName" : "ELEMENT",
               "nodeId" : "at0077.1",
-              "attributes" : [ {
-                "@type" : "C_ATTRIBUTE",
-                "rmAttributeName" : "value",
-                "children" : [ {
-                  "@type" : "C_COMPLEX_OBJECT",
-                  "rmTypeName" : "DV_DATE_TIME",
-                  "attributes" : [ ],
-                  "attributeTuples" : [ ]
-                } ]
-              } ],
+              "attributes" : [ ],
               "attributeTuples" : [ ]
             }, {
               "@type" : "C_COMPLEX_OBJECT",
               "rmTypeName" : "ELEMENT",
               "nodeId" : "at0003.1",
-              "attributes" : [ {
-                "@type" : "C_ATTRIBUTE",
-                "rmAttributeName" : "value",
-                "children" : [ {
-                  "@type" : "C_COMPLEX_OBJECT",
-                  "rmTypeName" : "DV_DATE_TIME",
-                  "attributes" : [ ],
-                  "attributeTuples" : [ ]
-                } ]
-              } ],
+              "attributes" : [ ],
               "attributeTuples" : [ ]
             }, {
               "@type" : "C_COMPLEX_OBJECT",
@@ -10324,16 +10306,7 @@
               "@type" : "C_COMPLEX_OBJECT",
               "rmTypeName" : "ELEMENT",
               "nodeId" : "at0030.1",
-              "attributes" : [ {
-                "@type" : "C_ATTRIBUTE",
-                "rmAttributeName" : "value",
-                "children" : [ {
-                  "@type" : "C_COMPLEX_OBJECT",
-                  "rmTypeName" : "DV_DATE_TIME",
-                  "attributes" : [ ],
-                  "attributeTuples" : [ ]
-                } ]
-              } ],
+              "attributes" : [ ],
               "attributeTuples" : [ ]
             }, {
               "@type" : "C_COMPLEX_OBJECT",
@@ -36209,7 +36182,7 @@
         "children" : [ {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "EVALUATION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.1",
           "attributes" : [ ],
           "attributeTuples" : [ ],
@@ -36218,7 +36191,7 @@
         }, {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "EVALUATION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.2",
           "attributes" : [ ],
           "attributeTuples" : [ ],
@@ -39110,7 +39083,7 @@
         "children" : [ {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "ACTION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.1",
           "attributes" : [ ],
           "attributeTuples" : [ ],
@@ -39119,7 +39092,7 @@
         }, {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "INSTRUCTION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.2",
           "attributes" : [ ],
           "attributeTuples" : [ ],
@@ -40363,7 +40336,7 @@
         "children" : [ {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "EVALUATION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.1",
           "attributes" : [ ],
           "attributeTuples" : [ ],
@@ -40372,7 +40345,7 @@
         }, {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "EVALUATION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.2",
           "attributes" : [ ],
           "attributeTuples" : [ ],
@@ -43232,7 +43205,7 @@
         "children" : [ {
           "@type" : "C_ARCHETYPE_ROOT",
           "rmTypeName" : "EVALUATION",
-          "occurrences" : "0..1",
+          "occurrences" : "0..0",
           "nodeId" : "at0.1",
           "attributes" : [ ],
           "attributeTuples" : [ ],

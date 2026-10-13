@@ -22,10 +22,10 @@
       "original_namespace" : "",
       "original_publisher" : "",
       "custodian_namespace" : "",
-      "MD5-CAM-1.0.1" : "a30f597f963a7aebc3861af19fa86e6c",
+      "MD5-CAM-1.0.1" : "ad1b6396cb5b6ae9c59befc25514f3c8",
       "PARENT:MD5-CAM-1.0.1" : "B2D87AA57E3D01820E7DAE733A4644F7",
       "original_language" : "ISO_639-1::en",
-      "sem_ver" : "1.0.3",
+      "sem_ver" : "1.1.0",
       "build_uid" : ""
     },
     "details" : {
@@ -266,7 +266,7 @@
           "@type" : "ARCHETYPE_TERM",
           "code" : "at0000.1",
           "text" : "International Patient Summary",
-          "description" : "Generic document containing a summary of health information about an individual."
+          "description" : "Generic document containing a summary of health information about an individual.d"
         }
       },
       "nb" : {
